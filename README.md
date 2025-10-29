@@ -1,19 +1,19 @@
 # Data Product Benchmark
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+<p align="center">
   <a href="https://opensource.org/license/mit">
     <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
   </a>
   <a href="https://huggingface.co/datasets/ibm-research/data-product-benchmark">
     <img src="https://img.shields.io/badge/Dataset-HuggingFace-FFD21E.svg" alt="HuggingFace">
   </a>
-<a href="https://arxiv.org/abs/2510.21737">
+  <a href="https://arxiv.org/abs/2510.21737">
     <img src="https://img.shields.io/badge/Paper-arXiv-red.svg" alt="arxiv">
   </a>
   <a href="https://www.python.org/downloads/release/python-310/">
     <img src="https://img.shields.io/badge/Python-3.10+-teal.svg" alt="Python">
   </a>
-</div>
+</p>
 
 The source code for data product benchmark creation and the baselines associated with the papre titled [`From Factoid Questions to Data Product Requests: Benchmarking Data Product Discovery over Tables and Text`](https://arxiv.org/abs/2510.21737).
 
